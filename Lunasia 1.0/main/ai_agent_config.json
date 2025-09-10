@@ -1,0 +1,39 @@
+{
+  "openai_key": "",
+  "deepseek_key": "",
+  "weather_key": "",
+  "heweather_key": "",
+  "amap_key": "",
+  "weather_source": "高德地图API",
+  "selected_model": "deepseek-reasoner",
+  "website_map": {
+    "哔哩哔哩": "https://www.bilibili.com",
+    "b站": "https://www.bilibili.com",
+    "百度": "https://www.baidu.com",
+    "谷歌": "https://www.google.com",
+    "知乎": "https://www.zhihu.com",
+    "github": "https://github.com",
+    "youtube": "https://www.youtube.com"
+  },
+  "app_map": {},
+  "mcp_servers": {
+    "高德": {
+      "type": "SSE"
+    }
+  },
+  "default_browser": "edge",
+  "default_search_engine": "bing",
+  "max_tokens": 0,
+  "window_transparency": 100,
+  "show_remember_details": false,
+  "note_filename_format": "simple",
+  "tts_enabled": false,
+  "azure_tts_key": "",
+  "azure_region": "eastus",
+  "tts_voice": "zh-CN-XiaoyiNeural",
+  "tts_speaking_rate": 1.0,
+  "ai_fallback_enabled": false,
+  "ai_summary_enabled": false,
+  "default_save_path": "D:/露尼西亚文件/",
+  "memory_summary_model": "deepseek-chat"
+}
